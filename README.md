@@ -23,8 +23,8 @@ To create a responsive design of the template provided.
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/html5-css3-Rvp0xYt3L
-- Live Site URL: https://michelle-abes.github.io/QR-Code-Component/
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/html5-css3-Rvp0xYt3L)
+- Live Site URL: [GitHub Pages](https://michelle-abes.github.io/QR-Code-Component/)
 
 ## My process
 
