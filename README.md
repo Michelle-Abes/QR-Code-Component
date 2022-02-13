@@ -35,4 +35,4 @@ To create a responsive design of the template provided.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Michelle-Abes)
+- Frontend Mentor - [@Michelle-Abes](https://www.frontendmentor.io/profile/Michelle-Abes)
