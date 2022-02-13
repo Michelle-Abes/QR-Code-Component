@@ -23,8 +23,8 @@ To create a responsive design of the template provided.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/Michelle-Abes)
+- Live Site URL: [Add live site URL here](https://michelle-abes.github.io/QR-Code-Component/)
 
 ## My process
 
