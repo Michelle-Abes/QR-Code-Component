@@ -18,8 +18,8 @@ To create a responsive design of the template provided.
 
 ### Screenshot
 
-![](./images/snip-full.jpg)
-![](./images/snip-card.jpg)
+![Snip-Full](./images/snip-full.jpg)
+![Snip-Card](./images/snip-card.jpg)
 
 ### Links
 
